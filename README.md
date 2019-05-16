@@ -4,7 +4,7 @@ Code and data associated wtih "Estimating bedload flux from gage data in Sand Be
 
 Files included:
 
-make_flux_dat.py: -Script used to call functions contained in qDune python package for computing bedload flux from repeat bathymetric surveys of dune migration
+make_flux_dat.py: Script used to call functions contained in qDune python package for computing bedload flux from repeat bathymetric surveys of dune migration
 
 statistical_analysis.ipynb: Script used to perform statistical analysis described in the paper.
 
