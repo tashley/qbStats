@@ -1,6 +1,8 @@
 # qbStats
 
-Code and data associated wtih "Estimating bedload flux from gage data in Sand Bed Rivers"
+Bayesian bedload estimation
+
+Code and data associated with Ashley et al., "Estimating bedload flux from gage data in Sand Bed Rivers"
 
 Files included:
 
